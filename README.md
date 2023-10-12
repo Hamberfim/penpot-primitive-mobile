@@ -1,2 +1,2 @@
-# penpot-primitive-mobile
-proof of use - can it replace figma
+## Penpot Primitive Mobile
+### proof of use - can it replace figma?
